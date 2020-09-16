@@ -1,3 +1,8 @@
+body{
+    max-width: 800px;
+    margin: auto;
+}
+
 .btn{
     display: inline;
     width: 25px;
@@ -11,4 +16,26 @@
 
 .box{
     margin: 10px;
+}
+
+nav a{
+    text-transform: uppercase;
+    text-decoration: none;
+    color: black;
+}
+
+header{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+}
+
+.alpha{
+    color: red;
+}
+
+.betta{
+    color: blue;
 }

@@ -7,6 +7,7 @@ $(document).ready(function(){       //check if elements is loaded
     $('main').css('margin', '0px 2px 0px 2px');
     $('h2, h1, p').css('margin', '1px');
     $('main').css('background-color', "lightgrey");
+    $('nav a').css('color', 'white');
 
     $('h2').parent().css('border', 'solid 3px #230000');
 
